@@ -16,7 +16,7 @@ The program uses a **singly linked list** structure to store client information.
 - `nome`: Name of the client
 - `cpf`: CPF of the client
 - `celular`: Cell phone number of the client
-- `proximo`: Pointer to the next client in the list
+- `proximo`: Pointer to the next client in the listi
 
 ### Functions
 
